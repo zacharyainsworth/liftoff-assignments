@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Real-time video game achievement tracking and review system.
 ### Features
-Include Features here
+Create Account: Users can login and logout 
+CRUD database achievements
+CRUD database reviews
+
+### Wishlist
+Comparing user data, achievements
+Find similar users
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf te
 ### What I'll Have to Learn
-Include what you will need to learn here
+Working with APIs
+Link users accounts to user data in the database
 ### Project Tracker
 Link to your Trello board here
